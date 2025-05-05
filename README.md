@@ -43,13 +43,13 @@ Sinta-se à vontade para sugerir melhorias ou corrigir eventuais erros. Fique à
 ## 🧑‍💻 Desenvolvido por
 
 **Thiago Silva**  
-[GitHub](https://github.com/thiagogosilva)
-[LinkedIn](https://www.linkedin.com/in/thiagogosilva)
+- [GitHub](https://github.com/thiagogosilva)
+- [LinkedIn](https://www.linkedin.com/in/thiagogosilva)
 
 ## 🔗 Acesse o projeto
 
 Você pode visualizar o projeto em funcionamento aqui:  
-👉 [Contador de Caracteres - GitHub Pages]()
+👉 [Contador de Caracteres - GitHub Pages](https://thiagogosilva.github.io/contador-caracteres/)
 
 **Link para visualizar meu Mini Portfólio:**  
 🔗 [Mini Portfólio 💻](https://thiagogosilva.github.io/desafio-90dias-dev/)
