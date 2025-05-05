@@ -1,9 +1,7 @@
-# 📒 Dia 09 - Contador de Caracteres e Palavras
-
-📅 Data: 05/05/2025
+# Contador de Caracteres e Palavras
 
 ## ✅ Objetivo do dia:
-Crir o projeto de contador de caracteres e palavras com funcionalidades extras para simular um comportamento mais profissional.
+Criar um mini projeto de contador de caracteres e palavras com funcionalidades extras para simular um comportamento mais profissional.
 ---
 
 ## 📚 O que aprendi hoje:
